@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lab03</string>
+    <string name="btn_cnv">CONVERT</string>
+    <string name="txt_from"></string>
+    <string name="txt_to"></string>
+</resources>
